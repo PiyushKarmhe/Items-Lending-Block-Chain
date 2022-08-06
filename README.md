@@ -22,3 +22,10 @@ Further Scopes for development :-
 Why Use solidity or Block-Chain Technology for this?
 The same functionality can also be achieved by using a simple database system too but that can never provide security as much as Block-Chain can provide.
 As every transaction that happens here is recorded and are immutable. Blockchain technology produces a structure of data with inherent security qualities. It's based on principles of cryptography, decentralization and consensus, which ensure trust in transactions. So it can easily beat any other system in terms of security.
+
+Steps to run :- 
+1) Open https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.15+commit.e14f2714.js&language=Solidity
+2) Copy past solidity code in the txt editor.
+3) Compile the code
+4) Ceploy the code
+5) Then do transactions as per your need.
