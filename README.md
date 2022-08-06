@@ -27,5 +27,5 @@ Steps to run :-
 1) Open https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.15+commit.e14f2714.js&language=Solidity
 2) Copy past solidity code in the txt editor.
 3) Compile the code
-4) Ceploy the code
+4) Deploy the code
 5) Then do transactions as per your need.
